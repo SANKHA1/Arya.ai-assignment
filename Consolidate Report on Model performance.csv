@@ -1,0 +1,7 @@
+,Model,accuracy,roc-auc,No. of variables
+0,Logistic Regression on whole dataset,0.9258312020460358,0.9294976855820334,57
+1,Logistic Regression on Feature selected dataset,0.860613810741688,0.9606377507286132,28
+2,XGBOOST on whole dataset,0.9398976982097187,0.988218755357449,57
+3,XGBOOST on Feature selected dataset,0.9296675191815856,0.9840356591805246,28
+4,Random forest on whole dataset,0.9411764705882353,0.9875878621635521,57
+5,Random forest on Feature selected dataset,0.9347826086956522,0.9799965712326419,28
